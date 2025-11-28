@@ -1,1 +1,1 @@
-# meca-calculation-app
+mecaのログ集計プログラムをEXE化して、アプリケーションとして配布する
